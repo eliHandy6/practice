@@ -1,0 +1,19 @@
+.navbar ul{
+    background-color: grey;
+    height: 50 px;
+    width: 95%;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+
+.navbar ul li{
+    list-style: none;
+    display: inline;
+    margin: 150px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    
+}
